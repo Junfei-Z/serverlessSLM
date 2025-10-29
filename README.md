@@ -244,18 +244,7 @@ This project is provided as-is for research and educational purposes.
 - Uses llama.cpp for efficient GGUF inference
 - Powered by NVIDIA Jetson edge AI platform
 
-## 📞 Citation
 
-If you use this benchmark in your research, please cite:
-
-```bibtex
-@software{jetson_slm_benchmark,
-  title = {Jetson SLM Benchmark: Prompt Length vs Quality},
-  author = {Your Name},
-  year = {2025},
-  url = {https://github.com/yourusername/serverlessSLM}
-}
-```
 
 ---
 
