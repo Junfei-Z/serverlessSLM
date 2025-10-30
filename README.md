@@ -139,7 +139,7 @@ Each question is tested with 5 hierarchical prompt versions:
 | L1 | Clarified | + constraints, criteria | +50-150 |
 | L2 | Guided | + step-by-step instructions | +100-200 |
 | L3 | Example-Guided | + examples, style guide | +150-250 |
-| P | Placebo | + uninformative fluff | +100-200 |
+| P | Placebo | + uninformative fluff | +250-350 |
 
 **Key Property**: L0 < L1 < L2 < L3 < P (monotonically increasing)
 
